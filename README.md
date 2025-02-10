@@ -49,18 +49,7 @@
     </tr>
 </table>
 
-### 4. 백준 허브
-<table>
-    <tr>
-        <td>
-            <a href="https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko">
-  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHUPga%2FbtrWXiwYN7I%2F3cGmJ8n6gNQneulIYBae81%2Fimg.png" height="300" width="500">
-</a>
-        </td>
-    </tr>
-</table>
-
-### 5. 커리큘럼
+### 4. 커리큘럼
 |주차|내용|
 |------|---|
 |Chapter 06|문자열 처리|
