@@ -11,7 +11,7 @@
 
 |                                                        **권현욱**                                                         |                                                        **김동국**                                                         |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://avatars.githubusercontent.com/u/113490741?s=400&u=6b60d3694e7cb946d119a2015d407819680a588a&v=4/200/200" height=200 width=200> <br/> @hyukwon](https://github.com/woogie01) | [<img src="https://avatars.githubusercontent.com/u/198530287?v=4" height=200 width=200> <br/> @catomat0]() |
+| [<img src="https://avatars.githubusercontent.com/u/113490741?s=400&u=6b60d3694e7cb946d119a2015d407819680a588a&v=4/200/200" height=200 width=200> <br/> @hyukwon](https://github.com/woogie01) | [<img src="https://avatars.githubusercontent.com/u/198530287?v=4" height=200 width=200> <br/> @catomat0](https://github.com/catomat0) |
 
 
 ## 📢 진행방식
